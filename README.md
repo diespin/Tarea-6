@@ -384,3 +384,8 @@ El capacitor conectado paralelamente permite que el voltaje de fluctuación perm
 [![28.png](https://i.postimg.cc/qB155k8c/28.png)](https://postimg.cc/rztjd2Zz)
 ### 4. VIDEO
 ### 5. CONCLUSIONES
+##### Con este informe de tarea pudimos comenzar con la nueva forma de corriente, la alterna y conocer sus componente básicos al igual que sus valores dependiendo las ondas en que este pasando. Pudimos ver algunas nuevas ecuación que los cirucito alternos necesitan para poder comprender su funcionamiento, al igual que muchas herramientas como es el osiloscopio. De igual manera vimos como las corrientes y voltajes interactuan en esta clase de circuitos y como se pueden producir diferentes ondas que ayudan a diferenciar una de otra. De igual maner vimos los generadores AC y muchos otros que se pueden utilizar en este tipo de circuitos. 
+También, en el siguiente capítulo definimos lo que son los capactadores y cómo se los puede usar. Sus variantes y su correcto funcionamiento.
+Al final realizamos los ejercicios respectivos para poder comprender mejor lo que es cada tema y analizar con deteminiento los conceptos.
+### 6. BIBLIOGRAFÍA
+- Floyd Thomas L.P.2007.Cantidades y unidades, Principios de circuitos eléctricos (8va ed.). PEARSON EDUCACION.
