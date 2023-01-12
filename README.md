@@ -1,7 +1,7 @@
 # INFORME DE TAREA 6
 ### 1. OBJETIVOS
 ### 1.1 Objetivo general
-#### Estudiar y analizar induccion y capacitancia en voltajes y corrientes alternas y directas. 
+- Estudiar y analizar induccion y capacitancia. 
 ### 1.2 Objetivos especificos
 - Identificar una forma de onda sinusoidal y medir sus características.
 - Estudiar las caracteristicas de la ondas seno.
@@ -17,7 +17,36 @@
 [![Screenshot-20230110-041955.png](https://i.postimg.cc/D01hK3x4/Screenshot-20230110-041955.png)](https://postimg.cc/V0spjpQz)
 ### UNIDAD 11
 #### AUTOEVALUACION
+1. La diferencia entre corriente alterna (ca) y corriente directa (cd) es
+(b) la corriente alterna cambia de dirección, y la corriente directa no
+3. Una onda seno con frecuencia de 12 kHz cambia más rápido que una onda seno con frecuencia de
+(c) 10,000 Hz 
+5. Cuando una onda seno tiene una frecuencia de 60 Hz, en 10 s realiza
+(d) 600 ciclos
+7. Si el valor pico de una onda seno es de 20 V, el valor rms es
+(a) 14.14 V 
+9. El valor promedio en medio ciclo de una onda seno con valor pico de 20 V es de
+(c) 12.74 V 
+11. El valor instantáneo de una onda seno pico de 15 A en un punto localizado a 32° de su cruce por cero hacia positivo es de
+(a) 7.95 A 
+13. Si la corriente rms a través de un resistor de 10 kÆ es de 5 mA, la caída de voltaje rms del resistor es de
+(d) 50 V
+15. Una forma de onda pulsante de 10 kHz se compone de pulsos de 10 ms de ancho. Su ciclo de trabajo es
+(b) 10% 
 ### EXAMEN RAPIDO DE DINAMICA DE CIRCUITOS
+Consulte la figura 11-81.
+1. Si el voltaje de fuente se incrementa, el voltaje entre los extremos de R3
+(a) aumenta 
+3. Si el valor promedio de medio ciclo del voltaje de fuente disminuye, el voltaje rms entre los extremos de R2
+(b) disminuye 
+5. Si la fuente de voltaje de cd se invierte, la corriente rms a través de RL
+(c) no cambia
+7. Si la punta de prueba CH2 mostrada que está conectado al lado derecho del resistor se mueve hacia el lado izquierdo del resistor, la amplitud del voltaje medido
+(a) aumenta 
+9. Si el alambre que conecta los dos resistores localizados en la parte superior se desconecta y ello modifica el efecto de carga en la fuente de la señal de entrada, el voltaje CH1
+(a) aumenta 
+11. Si el resistor de la esquina superior izquierda se abre, el voltaje CH1
+(b) disminuye 
 ### PROBLEMAS 
 **4.1. Ejercicios del Capítulo 11**
 
@@ -176,7 +205,38 @@ Vp = 600 mV, T = 500 ms
 Vp(ent) = 4.44 V, fent = 2 Hz
 ### UNIDAD 12
 #### AUTOEVALUACION
+1. El o los siguientes enunciados describen con precisión un capacitor:
+(g) Únicamente las respuestas (a) y (b).
+(a) Las placas son conductoras, (b) El dieléctrico es una aislante entre las placas.
+3. Una capacitancia de 1000 pF es mayor que
+(c) 1000 pF 
+5. Cuando el voltaje presente entre las terminales de un capacitor se incrementa, la carga almacenada
+(a) aumenta 
+7. El voltaje nominal de un capacitor se aumenta
+(a) al incrementar la separación de las placas 
+9. Tres capacitores de 1 μF, 2.2 μF, y 0.047 μF se conectan en serie. La capacitancia total es menor que
+(c) 0.047 μF
+11. Un capacitor descargado y un resistor se conectan en serie con un interruptor y una batería de 12 V. En el instante en que se cierra el interruptor el voltaje entre las terminales del capacitor es de
+(d) 0 V
+13. En la pregunta 11, el capacitor se cargará por completo en un tiempo igual a aproximadamente
+(b) 5RC 
+15. Un capacitor y un resistor están conectados en serie a un generador de ondas seno. La frecuencia se ajusta de modo que la reactancia capacitiva es igual a la resistencia y, por tanto, aparece una cantidad igual de voltaje entre cada componente. Si la frecuencia disminuye,
+(b) Vc>Vr
 ### EXAMEN RAPIDO DE DINAMICA DE CIRCUITOS
+Consulte la figura 12-73.
+1. Si los capacitores inicialmente están cargados y el interruptor se cierra, la carga en C1
+(a) aumenta 
+3. Si el interruptor se cierra y C2 se abre, la carga en C1
+(c) no cambia
+Consulte la figura 12-74.
+5. Si C se abre cuando el interruptor se cierra, el voltaje en C
+(a) aumenta 
+7. Si R2 se abre, el tiempo requerido para que el capacitor se cargue por completo
+(a) aumenta 
+9. Si VS se reduce, el tiempo requerido para que el capacitor se cargue por completo
+(c) no cambia
+11. Si C1 se abre, la corriente a través de C2
+(c) no cambia
 ### PROBLEMAS
 **4.2. Ejercicios del Capítulo 12**
 
